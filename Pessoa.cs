@@ -13,9 +13,9 @@ namespace _1_AprendendoPoo
         public bool viva;
 
 
-        public bool EstarViva (string viva)
+        public bool EstarViva (string vive)
         {
-            if (viva = "sim")
+            if (vive = "sim")
             {
                 this.viva = true;
                 Console.WriteLine(nome + " está viva.");

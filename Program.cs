@@ -14,7 +14,7 @@ namespace _1_AprendendoPoo
 
             p1.nome = "Alexande Mateus dos Santos Ferreira";
             p1.idade = 21;
-            p1.viva = "não";
+            p1.EstarViva("sim");
 
             Console.WriteLine(p1.viva);
 
