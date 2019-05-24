@@ -22,7 +22,7 @@ namespace _1_AprendendoPoo
             } else
             {
                 this.viva = false;
-                Console.WriteLine(nome + " faleceu.")
+                Console.WriteLine(nome + " faleceu.");
             }
         }
     }
