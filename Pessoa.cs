@@ -10,17 +10,20 @@ namespace _1_AprendendoPoo
     {
         public string nome;
         public int idade;
-        public bool viva = true;
+        public bool viva;
 
-         public bool EstaViva (string vive)
+
+        public bool EstarViva (string viva)
         {
-           if (vive = "não")
+            if (vive = "sim")
+            {
+                this.viva = true;
+                Console.WriteLine(nome + " está viva.");
+            } else
             {
                 this.viva = false;
-                
+                Console.WriteLine(nome + " faleceu.")
             }
-
-            return false;
         }
     }
 }
