@@ -1,0 +1,2 @@
+C:\Users\Alexandre\source\repos\AprendendoPoo\1-AprendendoPoo\obj\Debug\1-AprendendoPoo.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\AprendendoPoo\1-AprendendoPoo\obj\Debug\1-AprendendoPoo.csproj.CoreCompileInputs.cache
